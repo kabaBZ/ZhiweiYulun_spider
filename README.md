@@ -9,3 +9,5 @@ headers中的cookie并没有登录功能
 
 登录状态在headers中的token键值中，如不登录只能查看五次数据
 
+headers 中的键值属性不能有空格，否则也会服务器报错
+
